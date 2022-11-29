@@ -19,11 +19,11 @@ social: false  # includes social icons at the bottom of the page
 
 Hi there! Welcome to my little world :)
 
-I am currently a Ph.D. student with the [Artificial Intelligence and its Applications Institute (AIAI)](http://web.inf.ed.ac.uk/aiai) at the University of Edinburgh. I am currently a member of the [Technology Usability Lab in Privacy and Security (TULIPS)](https://groups.inf.ed.ac.uk/tulips/) and the Human-Centered Artificial Intelligence Lab at the University of Edinburgh. My research passion is online privacy and cybersecurity. I develop intelligent tools based on machine learning and natural language processing to fight cyber criminals and make the online world safer for all (hehe only a slight exaggeration). My AMAZING supervisors are [Dr. Nadin Kökciyan](https://homepages.inf.ed.ac.uk/nkokciya/) and [Dr. Kami Vaniea](https://vaniea.com/).
+I am currently a Ph.D. student with the [Artificial Intelligence and its Applications Institute (AIAI)](http://web.inf.ed.ac.uk/aiai) at the University of Edinburgh. I am currently a member of the [Technology Usability Lab in Privacy and Security (TULIPS)](https://groups.inf.ed.ac.uk/tulips/) and the Human-Centered Artificial Intelligence Lab at the University of Edinburgh. My research passion is online privacy and cybersecurity. I develop intelligent tools based on machine learning and natural language processing to fight cyber criminals and make the online world safer for all (hehe only a slight exaggeration). My AMAZING supervisors are [Dr. Nadin Kökciyan](http://www.nadinkokciyan.com/) and [Dr. Kami Vaniea](https://vaniea.com/).
 
 ### A little background ...
 I am from Bengaluru, India. I did an Integrated Master's from the [Indian Institute of Science Education and Research Thiruvananthapuram (IISER TVM)](https://www.iisertvm.ac.in/) in Mathematics with a minor in Chemistry.
 
 <div align="center">
-  *“The only thing necessary for the triumph of evil is for good men to do nothing" - Edmund Burke (not really though)*
+  *“The only thing necessary for the triumph of evil is for good men to do nothing" - Edmund Burke*
 </div>
