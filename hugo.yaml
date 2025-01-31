@@ -1,7 +1,7 @@
 baseURL: https://tarinisaka.github.io/
 languageCode: en-us
 title: Tarini Saka
-theme: profile
+theme: profile2
 
 
 outputs:
@@ -25,7 +25,8 @@ markup:
       unsafe: true
 
 #Menus:
-  #main:
+#  main:  
+
     # - identifier: blog
     #   name: Blog
     #   title: Blog posts
