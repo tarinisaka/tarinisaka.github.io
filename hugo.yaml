@@ -1,7 +1,7 @@
 baseURL: https://tarinisaka.github.io/
 languageCode: en-us
 title: Tarini Saka
-theme: profile2
+theme: profile
 
 
 outputs:
@@ -216,7 +216,7 @@ params:
     #        url: "#"
 
       - authors: "<b>Tarini Saka</b>, Kami Vaniea, Nadin Kökciyan"
-        year: 2024
+        year: 2024https://tarinisaka.github.io/
         title: "PhishCoder: Efficient Extraction of Contextual Information from Phishing Emails"
         venue: "In Proceedings of the Workshop on Security and Artificial Intelligence (SECAI 2024)"
         links:

@@ -1,0 +1,86 @@
+{{ if .Site.Params.publications.enable | default false }}
+<section id="publications" class="py-5">
+    <div class="container">
+        <h3 class="text-center">{{ .Site.Params.publications.title | default "Publications" }}</h3>
+        <div class="row justify-content-center py-5">
+        {{ if .Site.Params.publications.profiles }}
+        <div class="text-center mb-4">
+            Also see my 
+            {{ range $index, $profile := .Site.Params.publications.profiles }}
+                {{ if gt $index 0 }}
+                    {{ if eq (add $index 1) (len $.Site.Params.publications.profiles) }}
+                        and 
+                    {{ else }}
+                        , 
+                    {{ end }}
+                {{ end }}
+                <a href="{{ .url }}" target="_blank">{{ .name }}</a>
+            {{ end }} 
+            profiles.
+        </div>
+        </div>
+        {{ end }}
+
+        <!-- Search and filters
+        <div class="row mb-4">
+            <div class="col-md-4 mb-3">
+                <input type="text" class="form-control" id="pubSearch" placeholder="Search...">
+            </div>
+            <div class="col-md-4 mb-3">
+                <select class="form-select" id="pubType">
+                    <option value="">Type</option>
+                    {{ range .Site.Params.publications.types }}
+                    <option value="{{ . }}">{{ . }}</option>
+                    {{ end }}
+                </select>
+            </div>
+            <div class="col-md-4 mb-3">
+                <select class="form-select" id="pubDate">
+                    <option value="">Date</option>
+                    {{ range .Site.Params.publications.years }}
+                    <option value="{{ . }}">{{ . }}</option>
+                    {{ end }}
+                </select>
+            </div>
+        </div> -->
+
+        <!-- Publications list -->
+        <div class="publications-list">
+            {{ range .Site.Params.publications.items }}
+            <div class="publication-item mb-4">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="d-flex align-items-start">
+                            <i class="fas fa-file-alt me-2"></i>
+                            <div>
+                                <!-- Authors -->
+                                <span class="authors">{{ .authors | markdownify }}.</span>
+                                <!-- Year -->
+                                <span class="year">({{ .year }}).</span>
+                                <!-- Title -->
+                                {{ if .url }}
+                                <a href="{{ .url }}" target="_blank" class="publication-title">{{ .title }}</a>.
+                                {{ else }}
+                                <span class="publication-title">{{ .title | markdownify }}</span>.
+                                {{ end }}
+                                <!-- Venue -->
+                                <span class="venue">{{ .venue }}</span>.
+                                
+                                <!-- Links -->
+                                <div class="publication-links mt-2">
+                                    {{ range .links }}
+                                    <a href="{{ .url }}" target="_blank" class="btn btn-sm btn-outline-primary me-2">
+                                        {{ .name }}
+                                    </a>
+                                    {{ end }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
