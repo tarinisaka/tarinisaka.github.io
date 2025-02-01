@@ -287,16 +287,15 @@ params:
           - "Users"
         #  - "Guidance"
 
-        - title: Securing User-AI Interattion
+      - title: Securing User-AI Interattion
         content: Work in progress! Come back soon for updates :)
         image: /images/under-construction.webp
         featured:
           name: Info
-          link: #"/user_guidance/"
+          link: 
         badges:
           - "AI"
           - "Users"
-        #  - "Guidance"
 
 
   #Contact
