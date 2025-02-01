@@ -137,7 +137,7 @@ params:
     intro: "Hi, my name is"
     title: "Tarini."
     subtitle: "Empowering user safety through AI-driven security."
-    content: "I strive to create user-oriented AI solutions that empower organizations to safeguard against cyber attacks more effectively."
+    content: "I strive to create user-oriented AI solutions that help organizations fight cyber attacks more effectively."
     image: /images/tarini.jpg
     imageCaption: |
       Post-Doctoral Researcher
@@ -175,8 +175,7 @@ params:
 
       Previously, I was a PhD candidate at the University of Edinburgh with the [Artificial Intelligence and its Applications Institute](https://web.inf.ed.ac.uk/aiai). 
       I was a member of the [Technology Usability Lab in Privacy and Security (TULIPS)](https://groups.inf.ed.ac.uk/tulips/) and the [Human-Centered Artificial Intelligence (CHAI) Lab](https://edi-chai-lab.github.io/chai-lab-site/). 
-      My PhD research revolved around the critical area of organizational phishing management, where I utilized the advancements of AI and NLP to develop intelligent tools for strengthening defences against cyber threats. 
-      By integrating human-computer interaction (HCI) principles, I created user-oriented solutions that empowered organizations to safeguard against phishing attacks more effectively. 
+      My PhD research revolved around the critical area of organizational phishing management. I utilized advancements in Artificial Intelligence to develop intelligent tools aimed at enhancing defenses against cyber threats. By incorporating principles of human-computer interaction (HCI), I created user-oriented solutions that effectively combat phishing attacks.
       My amazing PhD supervisors are  [Dr. Nadin Kokciyan](http://www.nadinkokciyan.com/)  and  [Dr. Kami Vaniea](https://vaniea.com/).
 
 
@@ -218,7 +217,6 @@ params:
     #        url: "#"
 
       - authors: "<b>Tarini Saka</b>, Kami Vaniea, Nadin Kökciyan"
-        year: 2024
         title: "PhishCoder: Efficient Extraction of Contextual Information from Phishing Emails"
         venue: "In Proceedings of the Workshop on Security and Artificial Intelligence (SECAI 2024)"
         links:
@@ -286,6 +284,17 @@ params:
         badges:
           - "AI"
           - "Phishing"
+          - "Users"
+        #  - "Guidance"
+
+        - title: Securing User-AI Interattion
+        content: Work in progress! Come back soon for updates :)
+        image: https://pixabay.com/illustrations/under-construction-job-site-job-4010445/
+        featured:
+          name: Info
+          link: #"/user_guidance/"
+        badges:
+          - "AI"
           - "Users"
         #  - "Guidance"
 
