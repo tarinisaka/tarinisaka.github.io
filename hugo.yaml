@@ -217,6 +217,7 @@ params:
     #        url: "#"
 
       - authors: "<b>Tarini Saka</b>, Kami Vaniea, Nadin Kökciyan"
+        year: 2024
         title: "PhishCoder: Efficient Extraction of Contextual Information from Phishing Emails"
         venue: "In Proceedings of the Workshop on Security and Artificial Intelligence (SECAI 2024)"
         links:
@@ -287,7 +288,7 @@ params:
           - "Users"
         #  - "Guidance"
 
-      - title: Securing User-AI Interattion
+      - title: Securing User-AI Interaction
         content: Work in progress! Come back soon for updates :)
         image: /images/under-construction.webp
         featured:
