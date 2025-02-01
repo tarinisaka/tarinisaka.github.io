@@ -289,7 +289,7 @@ params:
 
         - title: Securing User-AI Interattion
         content: Work in progress! Come back soon for updates :)
-        image: https://pixabay.com/illustrations/under-construction-job-site-job-4010445/
+        image: /images/under-construction.webp
         featured:
           name: Info
           link: #"/user_guidance/"
