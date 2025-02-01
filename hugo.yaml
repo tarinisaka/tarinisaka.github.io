@@ -60,6 +60,8 @@ params:
   description: A little bit about me.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav1.png"
+  # Favicon attribution: Letter t icons created by yukyik
+  # Source: https://www.flaticon.com/free-icons/letter-t
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -216,7 +218,7 @@ params:
     #        url: "#"
 
       - authors: "<b>Tarini Saka</b>, Kami Vaniea, Nadin Kökciyan"
-        year: 2024https://tarinisaka.github.io/
+        year: 2024
         title: "PhishCoder: Efficient Extraction of Contextual Information from Phishing Emails"
         venue: "In Proceedings of the Workshop on Security and Artificial Intelligence (SECAI 2024)"
         links:
