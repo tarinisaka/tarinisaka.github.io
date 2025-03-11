@@ -1,0 +1,21 @@
+{{ if .Site.Params.quick_updates.enable | default false }}
+<section id="quick-updates" class="py-5">
+    <div class="container">
+        <h3 class="text-center">{{ .Site.Params.quick_updates.title | default "Quick Updates" }}</h3>
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="list-group">
+                    {{ range .Site.Params.quick_updates.items }}
+                    <div class="list-group-item d-flex align-items-center">
+                        <!-- Date in blue -->
+                        <span class="text-primary fw-bold me-3">{{ .date | time.Format "Jan 02, 2006" }}</span>
+                        <!-- Update text -->
+                        <span class="update-text">{{ .text | markdownify }}</span>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

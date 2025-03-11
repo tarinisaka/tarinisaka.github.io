@@ -163,6 +163,8 @@ params:
       #  - icon: /fav.png
       #    url: "https://example.com"
 
+
+
   # About
   about:
     enable: true
@@ -206,15 +208,16 @@ params:
     enable: true
     title: "Publications"    
     items:
-    #  - authors: "<b>Tarini Saka</b>, Kalliopi Vakali, Adam D G Jenkins, Kami Vaniea, Nadin Kökciyan"
-    #    year: 2025
-    #    title: "Judging Phishing Under Uncertainty: How Do Users Handle Inaccurate Automated Advice?"
-    #    venue: "In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. (CHI 2025)"
-    #    links:
-    #      - name: "PDF"
-    #        url: "/path/to/pdf"
-    #      - name: "Cite"
-    #        url: "#"
+      - authors: "<b>Tarini Saka</b>, Kalliopi Vakali, Adam D G Jenkins, Kami Vaniea, Nadin Kökciyan"
+        year: 2025
+        title: "Judging Phishing Under Uncertainty: How Do Users Handle Inaccurate Automated Advice?"
+        venue: "In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. (CHI 2025)"
+        links:
+          - name: "PDF"
+            url: "/files/chi25-guidance.pdf"
+          - name: "Cite"
+            url: "#"
+
 
       - authors: "<b>Tarini Saka</b>, Kami Vaniea, Nadin Kökciyan"
         year: 2024
@@ -225,6 +228,7 @@ params:
             url: "/files/saka2024-phishcoder.pdf"
           - name: "Cite"
             url: "#"
+
 
       - authors: "<b>Tarini Saka</b>, Rachiyta Jain, Kami Vaniea, Nadin Kökciyan "
         year: 2024
@@ -299,6 +303,7 @@ params:
           - "Users"
 
 
+
   #Contact
   contact:
     enable: true
@@ -357,3 +362,8 @@ params:
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
+
+
+# git add .
+# git commit -m "new project"
+# git push -u origin main
