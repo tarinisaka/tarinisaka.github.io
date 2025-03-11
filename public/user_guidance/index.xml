@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phishing User Guidance on Tarini Saka</title>
-    <link>http://localhost:1313/user_guidance/</link>
+    <link>https://tarinisaka.github.io/user_guidance/</link>
     <description>Recent content in Phishing User Guidance on Tarini Saka</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/user_guidance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tarinisaka.github.io/user_guidance/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

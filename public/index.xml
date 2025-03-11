@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tarini Saka</title>
-    <link>http://localhost:1313/</link>
+    <link>https://tarinisaka.github.io/</link>
     <description>Recent content on Tarini Saka</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tarinisaka.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phishing User Guidance</title>
-      <link>http://localhost:1313/user_guidance/</link>
+      <link>https://tarinisaka.github.io/user_guidance/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/user_guidance/</guid>
+      <guid>https://tarinisaka.github.io/user_guidance/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;&#xA;&lt;p&gt;This project studies the impact of automated contextual guidance on user phishing detection.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;Key Features:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Uses AI to provide real-time phishing guidance.&lt;/li&gt;&#xA;&lt;li&gt;Analyzes user interactions with phishing emails.&lt;/li&gt;&#xA;&lt;li&gt;Evaluates the effectiveness of different types of contextual advice.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more details, visit &lt;a href=&#34;https://www.rephrain.ac.uk/phished/&#34;&gt;Rephrain Project&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Image Gallery</title>
-      <link>http://localhost:1313/gallery/</link>
+      <link>https://tarinisaka.github.io/gallery/</link>
       <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
-      <guid>http://localhost:1313/gallery/</guid>
+      <guid>https://tarinisaka.github.io/gallery/</guid>
       <description></description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:1313/blogs/placeholder-text/</link>
+      <link>https://tarinisaka.github.io/blogs/placeholder-text/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/placeholder-text/</guid>
+      <guid>https://tarinisaka.github.io/blogs/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;&#xA;&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;&#xA;&lt;li&gt;Duce pollice&lt;/li&gt;&#xA;&lt;li&gt;Eris modo&lt;/li&gt;&#xA;&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;</description>
     </item>
   </channel>
