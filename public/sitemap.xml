@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tarinisaka.github.io/user_guidance/</loc>
+    <loc>https://tarinisaka.github.io/01_campaign_identification/</loc>
+    <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tarinisaka.github.io/02_user_guidance/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tarinisaka.github.io/</loc>
@@ -28,6 +31,8 @@
   </url><url>
     <loc>https://tarinisaka.github.io/tags/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://tarinisaka.github.io/03_secure_ai/</loc>
   </url><url>
     <loc>https://tarinisaka.github.io/categories/</loc>
   </url>

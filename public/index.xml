@@ -9,11 +9,18 @@
     <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tarinisaka.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Phishing User Guidance</title>
-      <link>https://tarinisaka.github.io/user_guidance/</link>
+      <title>Phishing Camapign Identification</title>
+      <link>https://tarinisaka.github.io/01_campaign_identification/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://tarinisaka.github.io/user_guidance/</guid>
-      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;&#xA;&lt;p&gt;This project studies the impact of automated contextual guidance on user phishing detection.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;Key Features:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Uses AI to provide real-time phishing guidance.&lt;/li&gt;&#xA;&lt;li&gt;Analyzes user interactions with phishing emails.&lt;/li&gt;&#xA;&lt;li&gt;Evaluates the effectiveness of different types of contextual advice.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more details, visit &lt;a href=&#34;https://www.rephrain.ac.uk/phished/&#34;&gt;Rephrain Project&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://tarinisaka.github.io/01_campaign_identification/</guid>
+      <description>&lt;h1 id=&#34;fighting-phishing-with-ai-a-smarter-way-to-stay-ahead&#34;&gt;Fighting Phishing with AI: A Smarter Way to Stay Ahead&lt;/h1&gt;&#xA;&lt;p&gt;Phishing attacks have exploded in recent years—getting bigger, smarter, and harder to stop. Organizations and security teams are feeling the pressure as attackers use advanced tricks to bypass detection systems and flood inboxes with deceptive emails. With large-scale campaigns sending out thousands of phishing emails at once, the chances of a successful attack keep rising. And now, with AI-generated phishing content and more sophisticated social engineering tactics, spotting these threats is tougher than ever.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing User Guidance</title>
+      <link>https://tarinisaka.github.io/02_user_guidance/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://tarinisaka.github.io/02_user_guidance/</guid>
+      <description>&lt;h2 id=&#34;how-effective-is-phishing-advice-we-put-it-to-the-test&#34;&gt;How Effective Is Phishing Advice? We Put It to the Test!&lt;/h2&gt;&#xA;&lt;p&gt;Phishing attacks are everywhere, and let’s be real—users are often the last line of defense. But here’s the problem: most advice on spotting phishing emails is vague and not very useful in real-life situations. The emails that slip past spam filters tend to be highly sophisticated, taking advantage of the differences between how humans and computers process information.&lt;/p&gt;&#xA;&lt;p&gt;So, what kind of advice actually helps users make better decisions? That’s what we set out to explore in our study. We tested three types of guidance:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Image Gallery</title>
@@ -28,6 +35,13 @@
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>https://tarinisaka.github.io/blogs/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;&#xA;&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;&#xA;&lt;li&gt;Duce pollice&lt;/li&gt;&#xA;&lt;li&gt;Eris modo&lt;/li&gt;&#xA;&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://tarinisaka.github.io/03_secure_ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tarinisaka.github.io/03_secure_ai/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

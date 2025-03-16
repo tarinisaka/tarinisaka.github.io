@@ -271,7 +271,7 @@ params:
         image: https://www.ensecur.de/wp-content/uploads/2021/10/phishing.png
         featured:
           name: Info
-          link: 
+          link: "/01_campaign_identification/"
         badges:
           - "AI"
           - "Language Models"
@@ -286,7 +286,7 @@ params:
         image: https://i0.wp.com/lemonlearning.com/wp-content/uploads/2023/09/role-of-user-support-in-DAPs.png?fit=1920%2C1080&ssl=1
         featured:
           name: Info
-          link: #"/user_guidance/"
+          link: "/02_user_guidance/"
         badges:
           - "AI"
           - "Phishing"
@@ -298,7 +298,7 @@ params:
         image: /images/under-construction.webp
         featured:
           name: Info
-          link: 
+          link: "/03_secure_ai/"
         badges:
           - "AI"
           - "Users"
@@ -339,7 +339,7 @@ params:
 
   # Single pages like blog and post
   singlePages:
-    socialShare: true
+    socialShare: false
     readTime:
       enable: true
       content: "min read"
