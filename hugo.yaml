@@ -85,7 +85,7 @@ params:
 
   font:
     fontSize: 1rem # default: 1rem
-    fontWeight: 400 # default: 400
+    fontWeight: 300 # default: 400
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
 
@@ -208,15 +208,26 @@ params:
     enable: true
     title: "Publications"    
     items:
+      - authors: "<b>Tarini Saka</b>, Kami Vaniea, Nadin Kökciyan"
+        year: 2025
+        title: "SoK: Grouping Spam and Phishing Email Threats for Smarter Security"
+        venue: "In IEEE Access, Volume 13, (pp. 54938-54959)"
+        links:
+          - name: "PDF"
+            url: "/files/access2025-sok.pdf"
+          - name: "Source"
+            url: "https://ieeexplore.ieee.org/abstract/document/10942367"
+
+
       - authors: "<b>Tarini Saka</b>, Kalliopi Vakali, Adam D G Jenkins, Kami Vaniea, Nadin Kökciyan"
         year: 2025
         title: "Judging Phishing Under Uncertainty: How Do Users Handle Inaccurate Automated Advice?"
-        venue: "In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. (CHI 2025)"
+        venue: "In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. (CHI 2025) [Honourable Mention]"
         links:
           - name: "PDF"
             url: "/files/chi25-guidance.pdf"
-          - name: "Cite"
-            url: "#"
+          - name: "Source"
+            url: "https://programs.sigchi.org/chi/2025/program/content/189664"
 
 
       - authors: "<b>Tarini Saka</b>, Kami Vaniea, Nadin Kökciyan"
@@ -226,19 +237,19 @@ params:
         links:
           - name: "PDF"
             url: "/files/saka2024-phishcoder.pdf"
-          - name: "Cite"
-            url: "#"
+          - name: "Source"
+            url: "https://link.springer.com/chapter/10.1007/978-3-031-82362-6_9"
 
 
       - authors: "<b>Tarini Saka</b>, Rachiyta Jain, Kami Vaniea, Nadin Kökciyan "
         year: 2024
         title: "Phishing Codebook: A Structured Framework for the Characterization of Phishing Emails."
-        venue: "arXiv preprint 2408.08967"
+        venue: "ArXiv preprint 2408.08967"
         links:
           - name: "PDF"
+            url: "/files/arxiv2024-codebook.pdf"
+          - name: "Source"
             url: "https://arxiv.org/abs/2408.08967"
-          - name: "Cite"
-            url: "#"
 
 
       - authors: "<b>Tarini Saka</b>, Kami Vaniea, Nadin Kökciyan"
@@ -247,16 +258,9 @@ params:
         venue: "In Proceedings of the 15th ACM Workshop on Artificial Intelligence and Security (AISec 2022)"
         links:
           - name: "PDF"
+            url: "/files/aisec2024-clustering.pdf"
+          - name: "Source"
             url: "https://dl.acm.org/doi/pdf/10.1145/3560830.3563728"
-          - name: "Cite"
-            url: "#"
-          #- name: "Project"
-          #  url: "#"
-          #- name: "Slides"
-          #  url: "#"
-          #- name: "Video"
-          #  url: "#"
-
 
 
 
