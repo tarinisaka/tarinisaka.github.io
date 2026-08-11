@@ -1,0 +1,117 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="160" y1="70" x2="350" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffe0f3"/>
+      <stop offset="30%" stop-color="#ff9ad5"/>
+      <stop offset="65%" stop-color="#ff4faf"/>
+      <stop offset="100%" stop-color="#d91b84"/>
+    </linearGradient>
+
+    <radialGradient cx="35%" cy="25%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#8a145d" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Bubble-style lowercase t -->
+  <g filter="url(#shadow)">
+    <!-- Dark pink outer edge -->
+    <path
+      d="M250 92
+         C250 150 250 205 250 270
+         C250 342 282 389 345 389"
+      fill="none"
+      stroke="#b91472"
+      stroke-width="118"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <path
+      d="M145 212
+         C200 212 284 212 363 212"
+      fill="none"
+      stroke="#b91472"
+      stroke-width="106"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- Pink glossy body -->
+    <path
+      d="M250 92
+         C250 150 250 205 250 270
+         C250 342 282 389 345 389"
+      fill="none"
+      stroke="url(#pinkBody)"
+      stroke-width="88"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <path
+      d="M145 212
+         C200 212 284 212 363 212"
+      fill="none"
+      stroke="url(#pinkBody)"
+      stroke-width="76"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- Gloss coating -->
+    <path
+      d="M223 105
+         C223 155 223 215 223 284"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="22"
+      stroke-linecap="round"
+      opacity="0.55"
+    />
+
+    <path
+      d="M161 190
+         C208 190 273 190 337 190"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="18"
+      stroke-linecap="round"
+      opacity="0.55"
+    />
+
+    <path
+      d="M281 342
+         C294 367 313 378 339 374"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="14"
+      stroke-linecap="round"
+      opacity="0.45"
+    />
+  </g>
+
+  <!-- Bubble shine spots -->
+  <circle cx="190" cy="260" r="18" fill="url(#bubbleHighlight)" opacity="0.85"/>
+  <circle cx="306" cy="138" r="15" fill="url(#bubbleHighlight)" opacity="0.8"/>
+  <circle cx="328" cy="255" r="12" fill="url(#bubbleHighlight)" opacity="0.75"/>
+  <circle cx="235" cy="352" r="10" fill="url(#bubbleHighlight)" opacity="0.7"/>
+
+  <!-- Small sparkles -->
+  <path
+    d="M388 132 L398 160 L426 170 L398 180 L388 208 L378 180 L350 170 L378 160 Z"
+    fill="#ffffff"
+    opacity="0.85"
+  />
+
+  <path
+    d="M113 315 L120 333 L138 340 L120 347 L113 365 L106 347 L88 340 L106 333 Z"
+    fill="#ffffff"
+    opacity="0.75"
+  />
+</svg>
